@@ -13,3 +13,5 @@ HTML5 & CSS3: For structuring and styling the website.
 JavaScript: To create interactive features and handle API requests.
 React.js: For building dynamic user interfaces.
 OpenWeatherMap API: For fetching real-time weather data.
+
+# This is one of my many practice Frontend pracice projects.
